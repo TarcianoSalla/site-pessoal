@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="vierport" content="width=device-width, initial-scale=1.0">
+    <title> Tarciano Salla - Desenvolvedor FullStack</title>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1> Tarciano Salla</h1>
+            <p> Desenvolvedor Fullstack</p>
+        </div>
+    </header>
+        <section id="about">
+            <div class="container">
+                <h2> Sobre mim</h2>
+                <p> Sou um profissional de tecnologia com experiência em programação e desenvolvimento web.</p>
+            </div>
+        </section>
+        <section id="skills">
+            <div class="container">
+                <h2> Minhas Habilidades</h2>
+                <ul>
+                    <li>HTML</li>
+                    <li>CSS</li>
+                    <li>Javascript</li>
+                    <li>Github</li>
+                </ul>
+            </div>
+        </section>
+        <section id="contact">
+            <div class="container">
+                <h2>Contato</h2>
+                <p>Faça contato através do e-mail: tarcisalla@gmail.com</p>
+            </div>
+        </section>
+        <footer>
+            <div class="container">
+                <p>&copy; 2024 Tarciano Salla. Todos os direitos reservados.</p>
+            </div>
+        </footer>
+</body>
+</html>
